@@ -1,0 +1,12 @@
+site_name: "doc-test"
+
+plugins:
+  - techdocs-core
+  - glightbox:
+      touchNavigation: true
+      loop: true
+      effect: fade
+      width: 100%
+      height: 100%
+      zoomable: true
+      draggable: true
