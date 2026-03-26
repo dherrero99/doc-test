@@ -10,3 +10,4 @@ plugins:
       height: 100%
       zoomable: true
       draggable: true
+      selector: 'img'
