@@ -1,4 +1,8 @@
 site_name: "doc-test"
 
+extra:
+  custom:
+    lightbox: true
+
 plugins:
   - techdocs-core
