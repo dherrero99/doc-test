@@ -1,2 +1,2 @@
 Hello
-![Image](assets/image.png)
+![Image](assets/image.png){: .lightbox }
