@@ -2,3 +2,7 @@ site_name: "doc-test"
 
 plugins:
   - techdocs-core
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
